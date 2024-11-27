@@ -1,5 +1,7 @@
 This project aims to encourage sustainable consumption habits in communities by focusing on breakfast cereals and beverages. Through three key phases—Engage, Educate, and Transform—it plans to raise awareness about sustainability, inspire behavior change, and promote healthier choices.
 
+##Amol Rakh
+
 ### **Phase 1: Engage - Understanding Community Needs (Months 1-2)**
 In this phase, the goal is to understand what people currently think and do when it comes to choosing breakfast cereals and beverages. By working closely with community members like local authorities, consumers, and schools, the project team will:
 - **Run Focus Groups**: Talk directly with community members to learn their opinions, challenges, and motivators regarding sustainable food choices.
